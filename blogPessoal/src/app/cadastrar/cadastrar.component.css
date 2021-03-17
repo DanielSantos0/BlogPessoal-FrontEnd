@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('https://www.clubeparacachorros.com.br/wp-content/uploads/2014/07/labrador-preto-sentado.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
